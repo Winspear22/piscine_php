@@ -14,10 +14,16 @@ table
     width: 100%;
     height: 100%;
 }
+td p
+{
+    font-size: 1vw;
+    resize: both;
+}
 .no_border
 {
     border: none;
 }
+
 .masse
 {
     position: absolute;
